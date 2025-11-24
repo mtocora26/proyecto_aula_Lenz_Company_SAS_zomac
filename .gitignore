@@ -1,0 +1,29 @@
+# Dependencias
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales y de caché
+*.log
+*.tmp
+*.swp
+.cache/
+
+# Configuración de editor
+.vscode/
+
+# Archivos de compilación/minificados
+*.min.css
+*.min.js
+
+# Bases de datos locales
+*.sqlite
+*.db
+
+# Archivos de respaldo
+*.bak
